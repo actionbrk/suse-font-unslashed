@@ -12,10 +12,11 @@ jobs:
       uses: actions/setup-python@v5
       with:
         python-version: "3.11"
-    - name: Setup fontspector
-      uses: fonttools/setup-fontspector@main
-      env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+    - name: Install Rust and fontspector
+      run: |
+        curl https://sh.rustup.rs -sSf | sh -s -- -y
+        source $HOME/.cargo/env
+        cargo install fontspector
     - name: Install toolset
       run: |
         sudo apt-get update
