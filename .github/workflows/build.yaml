@@ -12,11 +12,9 @@ jobs:
       uses: actions/setup-python@v5
       with:
         python-version: "3.11"
-    - name: Install Rust and fontspector
+    - name: Install fontspector python binding
       run: |
-        curl https://sh.rustup.rs -sSf | sh -s -- -y
-        source $HOME/.cargo/env
-        cargo install fontspector
+        python -m pip install fontspector-py
     - name: Install toolset
       run: |
         sudo apt-get update
