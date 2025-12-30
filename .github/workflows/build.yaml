@@ -12,9 +12,10 @@ jobs:
       uses: actions/setup-python@v5
       with:
         python-version: "3.11"
-    - name: Install fontspector python binding
-      run: |
-        python -m pip install fontspector-py
+    # - name: Setup fontspector
+    #   uses: fonttools/setup-fontspector@main
+    #   env:
+    #       GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
     - name: Install toolset
       run: |
         sudo apt-get update
