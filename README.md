@@ -1,3 +1,9 @@
+> ⚠️ This repository is a fork of [suse-font](https://github.com/SUSE/suse-font).
+>
+> It contains an additional font set where **the default zero is not slashed**.
+>
+> The original project is maintained by SUSE.
+
 ----
 
 # SUSE
