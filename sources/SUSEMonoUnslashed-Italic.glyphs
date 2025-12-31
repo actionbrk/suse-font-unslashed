@@ -145,7 +145,7 @@ value = "3";
 }
 );
 date = "2025-08-04 15:05:14 +0000";
-familyName = "SUSE Mono";
+familyName = "Suse Mono Unslashed";
 featurePrefixes = (
 {
 automatic = 1;
@@ -55468,7 +55468,7 @@ value = 100;
 },
 {
 name = preferredFamilyName;
-value = "SUSE Mono";
+value = "Suse Mono Unslashed";
 },
 {
 name = postscriptWeightName;
@@ -55506,7 +55506,7 @@ key = postscriptFullNames;
 values = (
 {
 language = dflt;
-value = "SUSE Mono Thin Italic";
+value = "Suse Mono Unslashed Thin Italic";
 }
 );
 },
@@ -55542,7 +55542,7 @@ value = 200;
 },
 {
 name = preferredFamilyName;
-value = "SUSE Mono";
+value = "Suse Mono Unslashed";
 },
 {
 name = postscriptWeightName;
@@ -55581,7 +55581,7 @@ key = postscriptFullNames;
 values = (
 {
 language = dflt;
-value = "SUSE Mono ExtraLight Italic";
+value = "Suse Mono Unslashed ExtraLight Italic";
 }
 );
 },
@@ -55617,7 +55617,7 @@ value = 300;
 },
 {
 name = preferredFamilyName;
-value = "SUSE Mono";
+value = "Suse Mono Unslashed";
 },
 {
 name = postscriptWeightName;
@@ -55656,7 +55656,7 @@ key = postscriptFullNames;
 values = (
 {
 language = dflt;
-value = "SUSE Mono Light Italic";
+value = "Suse Mono Unslashed Light Italic";
 }
 );
 },
@@ -55692,7 +55692,7 @@ value = 400;
 },
 {
 name = preferredFamilyName;
-value = "SUSE Mono";
+value = "Suse Mono Unslashed";
 },
 {
 name = postscriptWeightName;
@@ -55731,7 +55731,7 @@ key = postscriptFullNames;
 values = (
 {
 language = dflt;
-value = "SUSE Mono Regular Italic";
+value = "Suse Mono Unslashed Regular Italic";
 }
 );
 },
@@ -55766,7 +55766,7 @@ value = 500;
 },
 {
 name = preferredFamilyName;
-value = "SUSE Mono";
+value = "Suse Mono Unslashed";
 },
 {
 name = postscriptWeightName;
@@ -55805,7 +55805,7 @@ key = postscriptFullNames;
 values = (
 {
 language = dflt;
-value = "SUSE Mono Medium Italic";
+value = "Suse Mono Unslashed Medium Italic";
 }
 );
 },
@@ -55841,7 +55841,7 @@ value = 600;
 },
 {
 name = preferredFamilyName;
-value = "SUSE Mono";
+value = "Suse Mono Unslashed";
 },
 {
 name = postscriptWeightName;
@@ -55880,7 +55880,7 @@ key = postscriptFullNames;
 values = (
 {
 language = dflt;
-value = "SUSE Mono SemiBold Italic";
+value = "Suse Mono Unslashed SemiBold Italic";
 }
 );
 },
@@ -55916,7 +55916,7 @@ value = 700;
 },
 {
 name = preferredFamilyName;
-value = "SUSE Mono";
+value = "Suse Mono Unslashed";
 },
 {
 name = postscriptWeightName;
@@ -55956,7 +55956,7 @@ key = postscriptFullNames;
 values = (
 {
 language = dflt;
-value = "SUSE Mono Bold Italic";
+value = "Suse Mono Unslashed Bold Italic";
 }
 );
 },
@@ -55992,7 +55992,7 @@ value = 800;
 },
 {
 name = preferredFamilyName;
-value = "SUSE Mono";
+value = "Suse Mono Unslashed";
 },
 {
 name = postscriptWeightName;
@@ -56030,7 +56030,7 @@ key = postscriptFullNames;
 values = (
 {
 language = dflt;
-value = "SUSE Mono ExtraBold Italic";
+value = "Suse Mono Unslashed ExtraBold Italic";
 }
 );
 },
@@ -56054,7 +56054,7 @@ value = "4138F7D5-0763-4B33-9A38-359ACF56B4CB";
 },
 {
 name = fileName;
-value = "SUSE Mono Variable Italic";
+value = "Suse Mono Unslashed Variable Italic";
 },
 {
 name = "Axis Values";
@@ -56072,7 +56072,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "SUSE Mono Variable Italic";
+value = "Suse Mono Unslashed Variable Italic";
 }
 );
 },
